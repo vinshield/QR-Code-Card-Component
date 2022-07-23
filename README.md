@@ -29,8 +29,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: ![](https://github.com/vinshield/QR-Code-Card-Component)
-- Live Site URL: ![](https://vinshield.github.io/QR-Code-Card-Component/)
+- Solution URL: [Github Repo](https://github.com/vinshield/QR-Code-Card-Component)
+- Live Site URL: ![Website hosted on Github Pages](https://vinshield.github.io/QR-Code-Card-Component/)
 
 
 ## My process
